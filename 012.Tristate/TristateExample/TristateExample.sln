@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TristateExample", "TristateExample\TristateExample.csproj", "{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBC42E7-1E66-4E21-AE12-262A54BEAEED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
